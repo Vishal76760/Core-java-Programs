@@ -1,4 +1,4 @@
-To view code use following path
+To view code use following path :
 java variables
  src
-  com
+  com/vishal
